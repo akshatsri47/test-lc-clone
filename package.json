@@ -10,6 +10,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@codemirror/lang-cpp": "^6.0.2",
+    "@codemirror/lang-go": "^6.0.1",
+    "@codemirror/lang-java": "^6.0.1",
     "@codemirror/lang-javascript": "^6.2.1",
     "@uiw/codemirror-theme-bbedit": "^4.21.21",
     "@uiw/codemirror-theme-github": "^4.21.21",
@@ -17,6 +20,7 @@
     "@uiw/codemirror-themes": "^4.21.21",
     "@uiw/react-codemirror": "^4.21.21",
     "@vitejs/plugin-react-swc": "^3.6.0",
+    "axios": "^1.7.7",
     "canvas-confetti": "^1.9.2",
     "daisyui": "^4.6.1",
     "firebase": "^10.8.0",
